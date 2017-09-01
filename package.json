@@ -1,0 +1,26 @@
+{
+  "name": "placekitten-chrome-extension",
+  "version": "1.1.0",
+  "description": "An extension to render placekittens, based on width and height, and get their url",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Painatalman/Placekitten-Chrome-Extension.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "placekitten",
+    "placeholder",
+    "funny"
+  ],
+  "author": "Carlos Batman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Painatalman/Placekitten-Chrome-Extension/issues"
+  },
+  "homepage": "https://github.com/Painatalman/Placekitten-Chrome-Extension#readme"
+}

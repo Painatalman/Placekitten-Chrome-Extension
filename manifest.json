@@ -3,9 +3,20 @@
 
   "name": "Placekitten rendered",
   "description": "A rendered for placekittens based on their width and height",
-  "version": "1.0",
-
+  "version": "1.1.0",
   "browser_action": {
-    "default_popup": "popup.html"
-  }
+    "default_icon": "surfer.png",
+    "default_popup": "popup.html",
+    "default_title": "Placekitten placeholder"
+  },
+  "options_page": "options.html",
+  "icons": {
+    "16": "surfer.png",
+    "48": "surfer.png",
+    "128": "surfer.png"
+  },
+  "permissions": [
+    "storage",
+    "notifications"
+  ]
 }
